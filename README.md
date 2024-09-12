@@ -39,7 +39,7 @@ Each metric provides critical insights into the performance of teams. These metr
 ### 5. Contact Information
 For any questions or issues related to the dashboard, please contact:
 
-### Tableau Public Link: [SuperStore Sales Dashboard](https://public.tableau.com/shared/HBDM5HRTF?:display_count=n&:origin=viz_share_link)
+#### Tableau Public Link: [SuperStore Sales Dashboard](https://public.tableau.com/shared/HBDM5HRTF?:display_count=n&:origin=viz_share_link)
 
 #### Dashboard Owner/Developer: Siddharth Sahni
 #### Email: sidd.sahni3@gmail.com
